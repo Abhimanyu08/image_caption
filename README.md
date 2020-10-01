@@ -4,4 +4,6 @@ The paper uses image captioning as a pretraining task for other downstream tasks
 repo is written from scratch except the visual backbones (Pytorch pretrained models are used). Code for transformers is heavily inspired and even copied at places from the brilliant blog
 post "The Annotated Transformer" (https://nlp.seas.harvard.edu/2018/04/03/attention.html). The other parts of code are inspired and taken in some places from notebooks for fast.ai course - Part2 (https://www.fast.ai/) 
 
+## Some results on images from validation dataset:
+
 ![](images/res_1.jpg)
