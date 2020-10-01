@@ -3,4 +3,3 @@ Captioning images using a CNN and Transformers. This repo is an attempt to imple
 The paper uses image captioning as a pretraining task for other downstream tasks, but this repo is centered around the task of generating dense captions for images. Everything used in
 repo is written from scratch except the visual backbones (Pytorch pretrained models are used). Code for transformers is heavily inspired and even copied at places from the brilliant blog
 post "The Annotated Transformer" (https://nlp.seas.harvard.edu/2018/04/03/attention.html). The other parts of code are inspired and taken in some places from notebooks for fast.ai course - Part2 (https://www.fast.ai/) 
-
