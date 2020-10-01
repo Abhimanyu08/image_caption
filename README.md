@@ -7,3 +7,6 @@ post "The Annotated Transformer" (https://nlp.seas.harvard.edu/2018/04/03/attent
 ## Some results on images from validation dataset:
 
 ![](images/res_1.jpg)
+
+
+![](images/res_2.jpg)
